@@ -7,7 +7,7 @@ public class ExDio {
 		String product1 = "Computer";
 		String product2 = "Office desk";
 		
-		int age = 45;
+		int age = 52;
 		int code = 5290;
 		char gender = 'F';
 		
